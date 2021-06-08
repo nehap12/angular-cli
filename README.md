@@ -7,7 +7,7 @@
   - If you need to change the content, update `scripts/templates/readme.ejs`
   - If you need to add/remove a package or a link, update the .monorepo.json file instead.
 
-  Any changes to README.md directly will result in a failure on CI.
+  ***Any changes to README.md directly will result in a failure on CI.
 -->
 
 # Angular CLI
